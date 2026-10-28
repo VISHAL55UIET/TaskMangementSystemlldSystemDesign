@@ -1,4 +1,4 @@
-# Task Management System (Low-Level Design)
+# Task Management System (Low-Level Design).
 
 A Jira-style task manager built in plain Java to show how a real backend domain is designed: clean layers, design patterns used where they earn their place, business rules enforced in one spot each, and safe behaviour under concurrent writes. Storage is in-memory, so you can run it with no database or framework.
 
